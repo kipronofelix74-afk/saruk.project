@@ -23,3 +23,6 @@ A modern, responsive React application for creative agencies to showcase past wo
    ```bash
    git clone [https://github.com/Kagai8/summative-spa.git](https://github.com/Kagai8/summative-spa.git)
    cd summative-spa
+
+### Deploymment
+1. Use the link : https://kagai8.github.io/summative-spa/
