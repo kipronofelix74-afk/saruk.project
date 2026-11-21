@@ -5,10 +5,10 @@ import SearchBar from './components/SearchBar';
 import ProjectList from './components/ProjectList';
 
 const initialProjects = [
-  { id: 1, title: 'Baba Fua Project', description: 'This project is about getting reliable auxiliary staff in minutes. Whether it\'s for cleaning, security, or administrative tasks.' },
-  { id: 2, title: 'Lawyer Portal', description: 'A platform for lawyers to manage their cases and client communications.' },
-  { id: 3, title: 'E-Commerce Website', description: 'A modern e-commerce platform for selling products online.' },
-  { id: 4, title: 'Social Media App', description: 'A social media application for connecting with friends and sharing updates.' },
+  { id: 1, title: 'iphone 17 pro max', image: '/iphone17-pro-max.jpg', description: '...same text as before...' },
+  { id: 2, title: 'iphone 17 max', image: '/iphone17-max.jpg', description: '...' },
+  { id: 3, title: 'iphone 15 pro max', image: '/iphone15-pro-max.jpg', description: '...' },
+  { id: 4, title: 'iphone 15 max', image: '', description: '...' },
 ];
 
 export default function App() {
