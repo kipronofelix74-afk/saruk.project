@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import ProjectCard from './ProjectCard';
 
 export default function ProjectList({ projects }) {
