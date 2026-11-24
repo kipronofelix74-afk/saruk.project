@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 
 export default defineConfig({
-  base: '/summative-spa/',
+  base: '/saruk.project/',
   plugins: [react(), tailwindcss()],
   test: {
     globals: true,
