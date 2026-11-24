@@ -6,10 +6,10 @@ import App from './App';
 describe('Personal Project Showcase App', () => {
   it('renders initial projects from the mockup', () => {
     render(<App />);
-    expect(screen.getByText('Baba Fua Project')).toBeInTheDocument();
-    expect(screen.getByText('Lawyer Portal')).toBeInTheDocument();
-    expect(screen.getByText('E-Commerce Website')).toBeInTheDocument();
-    expect(screen.getByText('Social Media App')).toBeInTheDocument();
+    expect(screen.getByText('iphone 17 pro max')).toBeInTheDocument();
+    expect(screen.getByText('iphone 17 max')).toBeInTheDocument();
+    expect(screen.getByText('iphone 15 pro max')).toBeInTheDocument();
+    expect(screen.getByText('iphone 15 max')).toBeInTheDocument();
   });
 
   it('allows adding a new project', async () => {
